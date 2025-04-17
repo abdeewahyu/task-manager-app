@@ -1,12 +1,35 @@
-# React + Vite
+# 📝 Task Manager App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 About the Project
 
-Currently, two official plugins are available:
+Task Manager App is a simple and responsive web application that allows users to efficiently manage their daily tasks. You can create, search, filter, and delete tasks, all within a clean and user-friendly interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+👉 [Check out the live app here](https://task-manager-app-mauve.vercel.app/)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+- **React.js** – Frontend framework  
+- **Redux Toolkit** – State management  
+- **Tailwind CSS** – Styling  
+- **Framer Motion** – Smooth animations and transitions  
+
+## 🎯 Key Highlights
+
+This project focuses on:
+
+- 🔍 **Searching and Filtering Tasks**  
+  Users can quickly find tasks using search and filter functionality.
+
+- 💾 **Persisting Data in Local Storage**  
+  Tasks are stored locally to retain data even after page refreshes or browser restarts.
+
+- 🧩 **Structuring a Clean Redux Slice**  
+  State logic is organized and scalable using Redux Toolkit best practices.
+
+- ♻️ **Building Reusable UI Components**  
+  Components are designed to be modular, easy to maintain, and reusable across the app.
+
+- ✨ **Adding Smooth Transitions with Framer Motion**  
+  Enhances user experience with subtle animations for interactions and layout changes.
